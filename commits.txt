@@ -1,0 +1,23 @@
+commit 2f1295095f2e79239712094011bb42f7432af5b5
+Author: Walter red <walterjonataniglesias@gmail.com>
+Date:   Fri Sep 22 21:15:04 2023 -0300
+
+    puse detalles de la foto numero 4
+
+commit 2f822d66869a6f813241f5d84834d5d67a70747a
+Author: Walter red <walterjonataniglesias@gmail.com>
+Date:   Fri Sep 22 21:07:06 2023 -0300
+
+    cambie el contenido de la foto 3
+
+commit 94c63e8739fb957bdd4644ddf6396302d7426589
+Author: Walter red <walterjonataniglesias@gmail.com>
+Date:   Fri Sep 22 20:57:34 2023 -0300
+
+    Cambie el texto de empresa
+
+commit afa3023cd31f24f6b1e2a19fdc4169988a0ee0e1
+Author: Walter red <walterjonataniglesias@gmail.com>
+Date:   Fri Sep 22 20:13:22 2023 -0300
+
+    Estos son mis archivos de rotacion
